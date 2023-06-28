@@ -129,7 +129,7 @@ end
 function vfib=get_vfib(patient_metadata)
 
 patient_metadata=strsplit(patient_metadata,'\n');
-vfib_tmp=patient_metadata(startsWith(patient_metadata,'Shockable '));
+vfib_tmp=patient_metadata(startsWith(patient_metadata,'VFib:'));
 vfib_tmp=strsplit(vfib_tmp{1},':');
 
 if strncmp(strtrim(vfib_tmp{2}),'True',4)
