@@ -1,0 +1,9 @@
+Patient: ICARE_1009
+Age: 83
+Sex: Male
+ROSC: nan
+OHCA: False
+VFib: False
+TTM: 36
+Outcome: Poor
+CPC: 5

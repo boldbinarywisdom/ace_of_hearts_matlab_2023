@@ -1,0 +1,9 @@
+Patient: ICARE_1013
+Age: 68
+Sex: Male
+ROSC: nan
+OHCA: True
+VFib: True
+TTM: 33
+Outcome: Good
+CPC: 2

@@ -1,0 +1,9 @@
+Patient: ICARE_1017
+Age: 26
+Sex: Male
+ROSC: 52
+OHCA: True
+VFib: False
+TTM: nan
+Outcome: Poor
+CPC: 5
