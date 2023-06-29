@@ -1,0 +1,9 @@
+Patient: ICARE_1014
+Age: 37
+Sex: Female
+ROSC: 42
+OHCA: True
+VFib: True
+TTM: nan
+Outcome: Poor
+CPC: 5

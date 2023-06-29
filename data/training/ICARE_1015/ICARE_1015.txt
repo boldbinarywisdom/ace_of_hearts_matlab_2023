@@ -1,0 +1,9 @@
+Patient: ICARE_1015
+Age: 63
+Sex: Female
+ROSC: nan
+OHCA: nan
+VFib: nan
+TTM: 36
+Outcome: Good
+CPC: 2
